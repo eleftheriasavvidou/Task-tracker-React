@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project was developed following [YouTube React JS crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Traversy Media.
 
+React v18
+React Router v6
+
 How to use:
 
 * __npm install__ to install depedencies
